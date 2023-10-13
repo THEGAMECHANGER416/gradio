@@ -29,8 +29,7 @@ export interface Payload {
 }
 
 export interface Dependency {
-	trigger: string;
-	targets: number[];
+	targets: [number, string][];
 	inputs: number[];
 	outputs: number[];
 	backend_fn: boolean;
