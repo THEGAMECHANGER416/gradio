@@ -1,5 +1,11 @@
 # @gradio/dropdown
 
+## 0.3.3-beta.0
+
+### Fixes
+
+- [#5879](https://github.com/gradio-app/gradio/pull/5879) [`628f74a10`](https://github.com/gradio-app/gradio/commit/628f74a1047583f58f461f9b1b14196fa8f8a9d7) - Fix error when scrolling dropdown with scrollbar.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+
 ## 0.3.2
 
 ### Patch Changes

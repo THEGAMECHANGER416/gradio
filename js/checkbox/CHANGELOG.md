@@ -1,5 +1,13 @@
 # @gradio/checkbox
 
+## 0.2.3-beta.0
+
+### Patch Changes
+
+- Updated dependencies [[`90449fff6`](https://github.com/gradio-app/gradio/commit/90449fff680e8e7f2c8b7d85faaa0039f109fe97)]:
+  - @gradio/atoms@0.2.0-beta.0
+  - @gradio/statustracker@0.2.3-beta.0
+
 ## 0.2.2
 
 ### Patch Changes
@@ -22,7 +30,6 @@
 ### Features
 
 - [#5554](https://github.com/gradio-app/gradio/pull/5554) [`75ddeb390`](https://github.com/gradio-app/gradio/commit/75ddeb390d665d4484667390a97442081b49a423) - Accessibility Improvements. Thanks [@hannahblair](https://github.com/hannahblair)!
-
 
 ## 0.1.3
 

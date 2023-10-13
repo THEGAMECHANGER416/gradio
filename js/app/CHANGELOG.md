@@ -1,5 +1,12 @@
 # @gradio/app
 
+## 1.8.0-beta.0
+
+### Features
+
+- [#5909](https://github.com/gradio-app/gradio/pull/5909) [`90449fff6`](https://github.com/gradio-app/gradio/commit/90449fff680e8e7f2c8b7d85faaa0039f109fe97) - Lite: Fix is_self_host() to detect `127.0.0.1` as localhost as well.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+- [#5832](https://github.com/gradio-app/gradio/pull/5832) [`f6c2d962c`](https://github.com/gradio-app/gradio/commit/f6c2d962c97b432daffaa1dbb6ed5f8ecfe1756b) - Adds the ability to build the frontend and backend of custom components in preparation for publishing to pypi using `gradio_component build`.  Thanks [@pngwn](https://github.com/pngwn)!
+
 ## 1.7.1
 
 ### Patch Changes

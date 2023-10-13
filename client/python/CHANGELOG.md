@@ -1,5 +1,16 @@
 # gradio_client
 
+## 0.7.0-beta.0
+
+### Features
+
+- [#5768](https://github.com/gradio-app/gradio/pull/5768) [`00b4e9bb5`](https://github.com/gradio-app/gradio/commit/00b4e9bb54f37c68bb275c137bf08e2c7aefcb17) - Simplify how files are handled in components in 4.0.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+- [#5893](https://github.com/gradio-app/gradio/pull/5893) [`9d7770bfd`](https://github.com/gradio-app/gradio/commit/9d7770bfd098fb45addebc8353af36ddd0bbfcc4) - Rename gradio_component to gradio component.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+
+### Fixes
+
+- [#5879](https://github.com/gradio-app/gradio/pull/5879) [`628f74a10`](https://github.com/gradio-app/gradio/commit/628f74a1047583f58f461f9b1b14196fa8f8a9d7) - Assert refactor in external.py.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+
 ## 0.6.0
 
 ### Highlights

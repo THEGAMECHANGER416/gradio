@@ -1,5 +1,11 @@
 # @gradio/audio
 
+## 0.4.0-beta.0
+
+### Features
+
+- [#5770](https://github.com/gradio-app/gradio/pull/5770) [`7d2989677`](https://github.com/gradio-app/gradio/commit/7d298967726f91239c07c219d1dd00b3d9f66cb9) - Fix deployed demos on v4 branch.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+
 ## 0.3.7
 
 ### Fixes

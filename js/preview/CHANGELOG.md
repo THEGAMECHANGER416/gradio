@@ -1,5 +1,13 @@
 # @gradio/preview
 
+## 0.1.0-beta.6
+
+### Features
+
+- [#5724](https://github.com/gradio-app/gradio/pull/5724) [`fdd254c44`](https://github.com/gradio-app/gradio/commit/fdd254c44a5f2279103fe8e518a4869008dcfee9) - Add host to dev mode for vite.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+- [#5910](https://github.com/gradio-app/gradio/pull/5910) [`7c9d55f1c`](https://github.com/gradio-app/gradio/commit/7c9d55f1c1579f18e71ac17eb39d7e09a7856c38) - Use tags to identify custom component dirs and ignore uninstalled components.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+- [#5832](https://github.com/gradio-app/gradio/pull/5832) [`f6c2d962c`](https://github.com/gradio-app/gradio/commit/f6c2d962c97b432daffaa1dbb6ed5f8ecfe1756b) - Adds the ability to build the frontend and backend of custom components in preparation for publishing to pypi using `gradio_component build`.  Thanks [@pngwn](https://github.com/pngwn)!
+
 ## 0.1.0-beta.5
 
 ### Features

@@ -1,5 +1,11 @@
 # @gradio/atoms
 
+## 0.2.0-beta.0
+
+### Features
+
+- [#5909](https://github.com/gradio-app/gradio/pull/5909) [`90449fff6`](https://github.com/gradio-app/gradio/commit/90449fff680e8e7f2c8b7d85faaa0039f109fe97) - Change `BlockLabel` element to use `<label>`.  Thanks [@freddyaboulton](https://github.com/freddyaboulton)!
+
 ## 0.1.4
 
 ### Patch Changes

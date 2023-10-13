@@ -1,10 +1,18 @@
 # @gradio/plot
 
+## 0.2.3-beta.0
+
+### Patch Changes
+
+- Updated dependencies [[`90449fff6`](https://github.com/gradio-app/gradio/commit/90449fff680e8e7f2c8b7d85faaa0039f109fe97)]:
+  - @gradio/atoms@0.2.0-beta.0
+  - @gradio/statustracker@0.2.3-beta.0
+
 ## 0.2.2
 
 ### Fixes
 
-- [#5795](https://github.com/gradio-app/gradio/pull/5795) [`957ba5cfd`](https://github.com/gradio-app/gradio/commit/957ba5cfde18e09caedf31236a2064923cd7b282) - Prevent bokeh from injecting bokeh js multiple times.  Thanks [@abidlabs](https://github.com/abidlabs)!
+- [#5795](https://github.com/gradio-app/gradio/pull/5795) [`957ba5cfd`](https://github.com/gradio-app/gradio/commit/957ba5cfde18e09caedf31236a2064923cd7b282) - Prevent bokeh from injecting bokeh js multiple times. Thanks [@abidlabs](https://github.com/abidlabs)!
 
 ## 0.2.1
 
