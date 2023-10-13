@@ -1,5 +1,11 @@
 # @gradio/app
 
+## 1.7.2
+
+### Features
+
+- [#5886](https://github.com/gradio-app/gradio/pull/5886) [`121f25b2d`](https://github.com/gradio-app/gradio/commit/121f25b2d50a33e1e06721b79e20b4f5651987ba) - Lite: Fix is_self_host() to detect `127.0.0.1` as localhost as well.  Thanks [@whitphx](https://github.com/whitphx)!
+
 ## 1.7.1
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @gradio/dataframe
 
+## 0.4.0
+
+### Features
+
+- [#5877](https://github.com/gradio-app/gradio/pull/5877) [`a55b80942`](https://github.com/gradio-app/gradio/commit/a55b8094231ae462ac53f52bbdb460c1286ffabb) - Add styling (e.g. font colors and background colors) support to `gr.DataFrame` through the `pd.Styler` object.  Thanks [@abidlabs](https://github.com/abidlabs)!
+
 ## 0.3.1
 
 ### Patch Changes

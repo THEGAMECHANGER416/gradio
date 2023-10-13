@@ -1,5 +1,11 @@
 # @gradio/markdown
 
+## 0.3.2
+
+### Fixes
+
+- [#5878](https://github.com/gradio-app/gradio/pull/5878) [`fbce277e5`](https://github.com/gradio-app/gradio/commit/fbce277e50c5885371fd49c68adf8565c25c1d39) - Keep Markdown rendered lists within dataframe cells.  Thanks [@abidlabs](https://github.com/abidlabs)!
+
 ## 0.3.1
 
 ### Patch Changes
