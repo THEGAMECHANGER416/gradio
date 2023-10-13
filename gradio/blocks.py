@@ -227,7 +227,7 @@ class Block:
             collects_event_data: whether to collect event data for this event
             trigger_after: if set, this event will be triggered after 'trigger_after' function index
             trigger_only_on_success: if True, this event will only be triggered if the previous event was successful (only applies if `trigger_after` is set)
-            trigger_mode: If "once" (default for all events except `.change()`) would not allow any submissions while an event is pending. If set to "multiple", unlimited submissions are allowed while pending, and "always_last" (default for `.change()` event) would allow a second submission after the pending event is complete.
+            trigger_mode: If "once" (default for all events except `.change()`) would not allow any submissions of the same event by the same if they have an existing event pending. If set to "multiple", unlimited submissions are allowed while pending, and "always_last" (default for the `.change()` event) always executes the final event if a chain of the same events are triggered by the same user, but intermediate events are not guaranteed to be executed.
         Returns: dependency information, dependency index
         """
         # Support for singular parameter
